@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-cryaudio",
-  "description": "",
+  "description": "宝可梦叫声插件，目前有420只",
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -9,13 +9,11 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
     "koishi": "^4.17.8"
   }
